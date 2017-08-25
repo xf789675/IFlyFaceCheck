@@ -1,0 +1,3 @@
+rootProject.name = 'IFlyFaceCheck'
+
+include ':app'
